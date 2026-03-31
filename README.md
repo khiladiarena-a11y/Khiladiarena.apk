@@ -1,2 +1,2 @@
-# Khiladiarena.apk
-Official Khiladi Arena tournament app
+# Battlewinn.apk
+Official Battle winn tournament app
